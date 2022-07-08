@@ -1,0 +1,7 @@
+C:\Users\haish\source\repos\GuessRandomNumber\bin\Debug\GuessRandomNumber.exe.config
+C:\Users\haish\source\repos\GuessRandomNumber\bin\Debug\GuessRandomNumber.exe
+C:\Users\haish\source\repos\GuessRandomNumber\bin\Debug\GuessRandomNumber.pdb
+C:\Users\haish\source\repos\GuessRandomNumber\obj\Debug\GuessRandomNumber.csproj.AssemblyReference.cache
+C:\Users\haish\source\repos\GuessRandomNumber\obj\Debug\GuessRandomNumber.csproj.CoreCompileInputs.cache
+C:\Users\haish\source\repos\GuessRandomNumber\obj\Debug\GuessRandomNumber.exe
+C:\Users\haish\source\repos\GuessRandomNumber\obj\Debug\GuessRandomNumber.pdb
